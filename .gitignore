@@ -1,0 +1,7 @@
+Logs/
+.vscode/
+Packages/
+UserSettings/
+Library/
+*.meta
+Temp/
